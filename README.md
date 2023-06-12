@@ -14,9 +14,9 @@ This is a software tool developed for diagnosing patients, specifically focusing
 
 To run this tool, you need the following software and packages:
 
-- Android Studio (version X.X.X or higher)
+- Android Studio 
 - Android SDK
-- Java (version X.X or higher)
+- Java 
 
 ## Algorithm
 
